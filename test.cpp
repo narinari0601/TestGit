@@ -1,4 +1,4 @@
 ﻿void TestFunction()
 {
-	printf("testtesttest");
+	printf("testtesttest_test");
 }
